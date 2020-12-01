@@ -119,6 +119,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Database1\Employeescript.sql" />
+    <Content Include="Database\Empshiftscript.sql" />
+    <Content Include="Database\Shiftscript.sql" />
     <Content Include="Global.asax" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
